@@ -1,0 +1,9 @@
+//This code generates a black background
+
+void setup(){
+ background(0);   
+}
+
+void draw(){
+    
+}
